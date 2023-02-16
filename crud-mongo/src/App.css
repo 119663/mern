@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  font-size: 30px;
+  /* flex-direction: column;
+  font-size: 30px;
+  display: flex;
+  justify-content: center; 
+  align-items:center; */
+}
+
+.Button{
+  width: 300px;
+  font-size: 18pt;
+  height: 50px;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  opacity: 1;
+  background: #00308F;
+  position: absolute;
+  bottom: 300px;
+  right: 480px;
+}
+.Buttona{
+  width: 300px;
+  font-size: 18pt;
+  height: 50px;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  opacity: 1;
+  background: #00308F;
+  position: absolute;
+  bottom: 400px;
+  right: 480px;
+}
+
+
